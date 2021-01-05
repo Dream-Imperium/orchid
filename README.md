@@ -6,8 +6,8 @@ A lightweight text editor written in Lua
 * **[Get orchid](https://github.com/Dream-Imperium/orchid/releases/latest)** - Download
   for Windows and Linux
 * **[Get started](doc/usage.md)** - A quick overview on orchid and how to get started
-* **Get plugins** - Coming soon; add additional functionality
-* **Get color themes** - Coming soon; add additional color themes
+* **[Get plugins](https://github.com/Dream-Imperium/orchid-garden)** - Add additional functionality
+* **[Get color themes](https://github.com/Dream-Imperium/orchid-colors)** - Add additional color themes
 
 ## Overview
 orchid is a lightweight text editor written mostly in Lua. It aims to provide
